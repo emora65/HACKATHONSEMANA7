@@ -51,3 +51,68 @@
      width: 50px;
      height: 50px;
  }
+ .foto{
+    width: 750px;
+    height: 400px;
+ }
+
+ .titulo2{
+     color: steelblue;
+     font-size: 40px;
+     text-align: start;
+ }
+
+ .texto1{
+     color: gray;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+     text-align:left;
+     padding-left: 1.3em;
+ }
+
+   .texto2{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align:left;
+    padding-left: 1.3em;
+   }
+
+   .texto3{
+    color: skyblue;
+    font-size: 25px;
+    text-align: right;
+    padding-right: 2.3em;
+   }
+    .texto4{
+      color: skyblue;
+      font-size: 25px;
+    }
+
+ .titulocabecera{
+   font-size: 35px;
+   color: white;
+
+ }
+ 
+  .textocabecera{
+      font-size: 20px;
+      color: white;
+
+  }
+ 
+  .texto5{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align:left;
+    
+    padding-left: 1.3em;
+   }
+
+   .header2{
+    display: flex;
+    justify-content: space-between;
+    
+    align-items: center;
+   }
